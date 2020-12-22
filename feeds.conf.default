@@ -8,4 +8,4 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git;openwrt-19.07
 src-git jerryk https://github.com/jerrykuku/openwrt-package
 src-git kenzok https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
-src-git sirpdboy https://github.com/siropboy/sirpdboy-package
+src-git mypackages https://github.com/siropboy/mypackages
